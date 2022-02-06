@@ -9,7 +9,9 @@ Finally, supported by the data presented, we shall summarize the key points.
 
 
 2. Data Dictionary
+
 Format: A data frame with 676 observations on the following 7 variables:
+
 •	netID: refers to net ID 
 •	fishID: refers to the fish ID 
 •	species: Species of the fish
